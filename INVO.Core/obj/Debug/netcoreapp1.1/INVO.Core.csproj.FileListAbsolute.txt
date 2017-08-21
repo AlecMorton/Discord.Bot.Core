@@ -1,0 +1,9 @@
+c:\users\alecm\onedrive\documents\visual studio 2017\Projects\INVO.Core\INVO.Core\bin\Debug\netcoreapp1.1\INVO.Core.deps.json
+c:\users\alecm\onedrive\documents\visual studio 2017\Projects\INVO.Core\INVO.Core\bin\Debug\netcoreapp1.1\INVO.Core.runtimeconfig.json
+c:\users\alecm\onedrive\documents\visual studio 2017\Projects\INVO.Core\INVO.Core\bin\Debug\netcoreapp1.1\INVO.Core.runtimeconfig.dev.json
+c:\users\alecm\onedrive\documents\visual studio 2017\Projects\INVO.Core\INVO.Core\bin\Debug\netcoreapp1.1\INVO.Core.dll
+c:\users\alecm\onedrive\documents\visual studio 2017\Projects\INVO.Core\INVO.Core\obj\Debug\netcoreapp1.1\INVO.Core.csprojResolveAssemblyReference.cache
+c:\users\alecm\onedrive\documents\visual studio 2017\Projects\INVO.Core\INVO.Core\obj\Debug\netcoreapp1.1\INVO.Core.AssemblyInfo.cs
+C:\Users\alecm\onedrive\documents\visual studio 2017\Projects\INVO.Core\INVO.Core\bin\Debug\netcoreapp1.1\INVO.Core.pdb
+C:\Users\alecm\onedrive\documents\visual studio 2017\Projects\INVO.Core\INVO.Core\obj\Debug\netcoreapp1.1\INVO.Core.dll
+C:\Users\alecm\onedrive\documents\visual studio 2017\Projects\INVO.Core\INVO.Core\obj\Debug\netcoreapp1.1\INVO.Core.pdb
